@@ -8,6 +8,9 @@
 
 ![Rafael Arantes GitHub stats](https://github-readme-stats.vercel.app/api?username=365rafael&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=365rafael&layout=compact)](https://github.com/365rafael/github-readme-stats)
+
+
 ## Tecnologias que estou desenvolvendo
 
 <div style="display: inline_block"><br/>
