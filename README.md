@@ -1,5 +1,5 @@
-### Olá! EU sou o Rafael Arantes 🙋‍♂️
-<div><a href="https://github.com/365rafael"><img align="center" alt="capa" height="180em" width="100%" src="https://user-images.githubusercontent.com/97065934/152647126-7d6819bf-26c3-4e2f-90c1-d14b9ed3753f.png"/></div><br/>
+###  🙋‍♂️ Olá! Eu sou o Rafael Arantes! Um apaixonado por tecnologia...
+<div><a href="https://github.com/365rafael"><img align="center" alt="capa" width="100%" src="https://idocode.com.br/wp-content/uploads/2020/05/0-destaque-linguagens-de-programacao-2019.jpg.webp"/></div><br/>
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/RafaelArantes365)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rafael_365)
