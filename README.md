@@ -1,4 +1,6 @@
 ###  🙋‍♂️ Olá! Eu sou o Rafael Arantes! Um apaixonado por tecnologia...
+💻 Análise e Desenvolvimento de Sistemas
+
 <div><a href="https://github.com/365rafael"><img align="center" alt="capa" width="100%" src="https://idocode.com.br/wp-content/uploads/2020/05/0-destaque-linguagens-de-programacao-2019.jpg.webp"/></div><br/>
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/RafaelArantes365)
